@@ -1,0 +1,29 @@
+body {
+  background: #f4f4f4;
+  padding:50px;
+}
+
+div #crypto-container {
+  background: white;
+  width: 70%;
+  margin: 0 auto 4px auto;
+  padding: 1em;
+  box-shadow: 1px 1px 0 lightgrey;
+}
+
+span.left {
+  font-weight: bold;
+  color: #514f4f;
+}
+
+span.right {
+  float:right;
+  color: #514f4f;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Oswald', 'sans-serif';
+  font-size: 64px;
+  color: #514f4f;
+}
